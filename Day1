@@ -2,8 +2,9 @@ Using split()
 
 function cut(answer){
 
-return cut.split(" ")
+return answer.split(" ")
 }
+
 console.log(cut("RAMU IS HERE"))
 
 
