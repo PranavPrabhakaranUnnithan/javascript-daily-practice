@@ -1,0 +1,17 @@
+Using split()
+
+function cut(answer){
+
+return cut.split(" ")
+}
+console.log(cut("RAMU IS HERE"))
+
+
+
+Using map()
+
+const nums=[1,2,3,4,5]
+
+const file=nums.map(nums=>nums*2)
+
+console.log(file)
