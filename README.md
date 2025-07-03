@@ -1,4 +1,4 @@
-# 🧠 JavaScript Daily Practice – by Pranav
+# 🧠 JavaScript Daily Practice
 
 Welcome to my daily JavaScript problem-solving log!  
 I'm solving JavaScript problems every day, focusing on strong logic, clean code, and real-world concepts — all in public.
