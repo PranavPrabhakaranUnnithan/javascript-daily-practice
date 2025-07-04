@@ -7,3 +7,20 @@ Use of join()=Array to String
 const words = ["Kalki", "will", "earn", "lakhs", "soon"];
 console.log(words.join(" "))
 
+//Qn: Filter names that start with "K"
+
+const names = ["Kalki", "Bujji", "Kamal", "Rahul"];
+
+const result=names.filter(names=>names.startsWith("K"))
+
+console.log(result)
+
+
+Qn: Filter strings with length > 5
+const words = ["apple", "banana", "grape", "mango", "pineapple"];
+
+const result= words.filter(word=>word.length>5);
+
+console.log(result);
+
+
