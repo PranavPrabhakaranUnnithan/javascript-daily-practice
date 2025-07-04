@@ -1,0 +1,9 @@
+Use of split()=String to Array
+const quote = "Discipline and consistency will make you rich, not luck";
+console.log(quote.split(" "))
+
+
+Use of join()=Array to String
+const words = ["Kalki", "will", "earn", "lakhs", "soon"];
+console.log(words.join(" "))
+
