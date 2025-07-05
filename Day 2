@@ -16,11 +16,6 @@ const result=names.filter(names=>names.startsWith("K"))
 console.log(result)
 
 
-Qn: Filter strings with length > 5
-const words = ["apple", "banana", "grape", "mango", "pineapple"];
 
-const result= words.filter(word=>word.length>5);
-
-console.log(result);
 
 
